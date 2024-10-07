@@ -1,5 +1,5 @@
 # Lab2Computo2
-This is repositorie for add flies of lab1c2 of progra III
+This is repositorie for add files of lab1c2 of progra III
 Integrantes:
 Keyla Nallely Canales Nuñez - SMTR068223
 Wesly Ariel Umanzor Arias   - SMTR072723
