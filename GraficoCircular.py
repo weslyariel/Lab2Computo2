@@ -5,7 +5,7 @@ import pandas as pd
 
 dataset = pd.read_csv('spotify.csv')
 
-# Filtrar el dataset para incluir solo las canciones de Feid, Mike Towers y Rauw Alejandro
+# Filtrar el dataset para incluir solo las canciones de artistas latinoamericanos, (buscados por nombres)
 filtered_dataset = dataset[dataset['artist(s)_name'].isin(['Feid', 'Myke Towers', 'Rauw Alejandro', 'Bad Bunny','Karol G', 'Ozuna',
                                                            'Manuel Turizo', 'Shakira', 'Don Omar', 'Daddy Yankee'])]
 
